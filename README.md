@@ -14,7 +14,7 @@ This repository showcases an API gateway implementation using Node.js with SQLit
 #### Installation
 **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/api-gateway.git
+git clone https://github.com/Melek-E/api-gateway.git
 cd api-gateway
 ```
 **Install the dependencies:**
